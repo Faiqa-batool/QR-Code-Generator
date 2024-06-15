@@ -9,4 +9,5 @@
 ## Working:
 
 It generates QR code using an online hosted javascript library "qr-code.js".
+<br/>
 Make sure to have an active internet access when running this code.
