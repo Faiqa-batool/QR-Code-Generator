@@ -3,7 +3,7 @@
 ## How to use?
 
 1. Enter any kind of input in the field i.e. text, url, etc.
-2. Click on the button.
+2. Click on the button "Generate QR code".
 3. It will create the QR code of the given input.
 
 ## Working:
