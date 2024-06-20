@@ -1,5 +1,7 @@
 # QR code Generator
 
+Hosted url: https://faiqa-batool.github.io/QR-Code-Generator/
+
 ## How to use?
 
 1. Enter any kind of input in the field i.e. text, url, etc.
